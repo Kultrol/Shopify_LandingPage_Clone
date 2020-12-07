@@ -1,0 +1,19 @@
+html{
+    font-size: 10px;
+}
+
+
+body{
+    background-color: white;
+    color: #6b7177;
+    font-family: 'Cabin', sans-serif;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+

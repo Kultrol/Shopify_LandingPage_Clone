@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+footer div{
+    margin-left: 65rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+footer div a{
+    padding: 0 2rem;
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #008060;
+}
